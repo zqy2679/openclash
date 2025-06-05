@@ -8,6 +8,5 @@ DOMAIN-KEYWORD,needaycloud.xyz
 DOMAIN-KEYWORD,vip.subscribe-needay.xyz
 
 # IP段匹配
-IP-CIDR,92.112.127.40,no-resolve
 
 
